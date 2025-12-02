@@ -6,8 +6,8 @@
     ],
     "compressor": {
         "blocksize": 0,
-        "clevel": 5,
-        "cname": "lz4",
+        "clevel": 3,
+        "cname": "zstd",
         "id": "blosc",
         "shuffle": 1
     },
@@ -17,7 +17,7 @@
     "filters": null,
     "order": "C",
     "shape": [
-        150,
+        75,
         1884,
         1004
     ],
