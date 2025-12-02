@@ -67,19 +67,6 @@
                         }
                     ],
                     "path": "3"
-                },
-                {
-                    "coordinateTransformations": [
-                        {
-                            "scale": [
-                                15.0,
-                                15.966101694915254,
-                                15.936507936507937
-                            ],
-                            "type": "scale"
-                        }
-                    ],
-                    "path": "4"
                 }
             ],
             "name": "/",
