@@ -6,8 +6,8 @@
     ],
     "compressor": {
         "blocksize": 0,
-        "clevel": 3,
-        "cname": "zstd",
+        "clevel": 5,
+        "cname": "lz4",
         "id": "blosc",
         "shuffle": 1
     },
